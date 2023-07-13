@@ -1,0 +1,98 @@
+.nav-link disabled{
+    color: white; 
+    
+}
+h2{
+    text-align: center;
+    padding: 2.5%;
+    word-spacing: 4px;
+    font-weight: 100;
+    font-size: 40px;
+    font-family:  zen dots;
+    
+}
+h2:hover{
+    color: purple;
+    
+    cursor:pointer;
+}
+.ansh{
+    padding: 30px;
+    text-align: center;
+}
+
+
+.shiv{
+     text-align :center;
+     background-color: rgba(116, 110, 110, 0.384);
+     color: rgb(65, 34, 94);
+}
+.first{
+    font-size: 30px;
+    letter-spacing: 10px;
+}
+.five{
+    color: rgb(52, 223, 18);
+}
+.one {
+    transition: 0.5s;
+   
+}
+.one:hover{
+    background-color: rgba(126, 75, 173, 0.664);
+}
+h3{
+    
+text-align: center;
+padding: 2%;
+word-spacing: 4px;
+font-weight: 400;
+font-size: 30px;
+background-color: rgba(116, 110, 110, 0.425);  
+ color: rgb(63, 35, 88);
+ font-family:  zen dots;
+}
+h3:hover{
+    color: purple;
+    text-decoration:underline;
+    cursor:pointer;
+    
+}
+footer{ 
+    padding: 3%;
+    background-color: rgba(62, 38, 83, 0.925);
+}
+ footer{
+    transition: 0.5s;  
+   
+}
+footer:hover{
+    background-color:rgb(54, 30, 77);
+    
+}
+footer a{
+    text-decoration: none;
+    
+    color: white; 
+}
+hr{
+    color: white;
+}
+footer{
+    text-align: center;
+    color: white;
+    
+}
+.cont {
+   
+    text-align: center;
+   
+    
+  }
+  .container{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+  }
+  
